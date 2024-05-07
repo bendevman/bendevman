@@ -1,9 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Asan</h1>
 <h3 align="center">A passionate frontend developer from Crimea</h3>
-
-- 📫 How to reach me **bendevman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
